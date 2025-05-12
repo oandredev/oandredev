@@ -20,8 +20,8 @@ jobs:
           github_user_name: oandredev
           outputs: |
             ./output/github-contribution-grid-snake.svg
-             color_snake: "#00FF00" 
-             color_dots: "#1E1E1E, #2D2D2D, #3C3C3C, #4B4B4B, #5A5A5A"
+          color_snake: "#00FF00"
+          color_dots: "#1E1E1E, #2D2D2D, #3C3C3C, #4B4B4B, #5A5A5A"
 
       - name: Commit and Push
         uses: EndBug/add-and-commit@v9
