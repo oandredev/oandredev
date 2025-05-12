@@ -1,10 +1,16 @@
-<h2 align="left">Hi 👋! My name is André Rodrigues, a guy passionate about technology 💻 </h2>
+<img src="Assets/wallpaperAndreDev.png" alt="Logo" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=25&center=false&vCenter=true&width=1000&lines=André+Rodrigues;Be+Welcome!+:%29" alt="Typing SVG">
+</a>
+
+<h2 align="left">A guy passionate about technology 💻 </h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oandredev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oandredev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=oandredev&theme=holi&show_icons=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oandredev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=holi&hide_border=false"   height="165" alt="languages graph"  />
 </div>
 
 ###
@@ -27,8 +33,6 @@
   <img src="https://img.shields.io/static/v1?message=Unity%20Engine&logo=unity&label=&color=gray&logoColor=white&labelColor=&style=for-the-badge" height="40"/>
   <img width="12" />
   <img src="https://img.shields.io/static/v1?message=Photon%20Engine&logo=photon&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40"/>
-
-
 </div>
 
 ###
@@ -50,6 +54,10 @@
 
 ###
 
-<br clear="both">
+<p>
+  <img src="output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
 
 ###
+
+<br clear="both">
