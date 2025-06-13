@@ -1,38 +1,33 @@
-name: GitHub Snake Game
+name: Generate snake animation
 
 on:
-  # Agenda para rodar todo dia à meia-noite (UTC)
-  schedule:
-    - cron: "0 0 * * *"
-  # Permite executar manualmente
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
   workflow_dispatch:
+
+  push:
+    branches:
+      - master
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      # Etapa 1 – Clona o repositório
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    timeout-minutes: 5
 
-      # Etapa 2 – Gera os arquivos .svg e .gif da snake
-      - name: Generate GitHub Contributions Snake Animations
-        uses: Platane/snk@v3
+    steps:
+      - name: generate snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: oandredev
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          outputs: dist/snake.svg?palette=github-dark
+
+      - name: push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # Etapa 3 – Faz deploy para o branch `output`
-      - name: Deploy to GitHub Pages (output branch)
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          commit_message: "update snake animation [skip ci]"
