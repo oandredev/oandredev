@@ -1,13 +1,16 @@
+<img height="25px" src="https://api.visitorbadge.io/api/visitors?path=github.com%oandredev&label=visitors&labelColor=%23059&countColor=%231a2a40&style=default" alt="oandredev-profile-views">
+
 <h1 align="center">Hi 👋! I'm André Rodrigues, a guy passionate about technology 💻 </h1>
-<h5 align="justify"> I'm a Systems Analysis and Development student at Senac University Center, and I'm looking for opportunities to apply and expand my knowledge in the technology field. I'm passionate about software development, always seeking to learn and evolve with new challenges.</h5>
-<h5> I started in this field after participating in a game development workshop. I created a small platform game, and through it, I was able to see the endless possibilities. This made me fall in love with technology and continue practicing it to this day. </h5> 
-<h5> I have been gaining experience and deepening my knowledge in the following technologies:</h5>
+<h4 align="justify"> I'm a Systems Analysis and Development student at Senac University Center, and I'm looking for opportunities to apply and expand my knowledge in the technology field. I'm passionate about software development, always seeking to learn and evolve with new challenges.</h4>
+<h4> I started in this field after participating in a game development workshop. I created a small platform game, and through it, I was able to see the endless possibilities. This made me fall in love with technology and continue practicing it to this day. </h4> 
+<h4> I have been gaining experience and deepening my knowledge in the following technologies:</h4>
 
 <br>
 
 <div align="center" collum=1>
-  <img src="https://github-readme-stats.vercel.app/api?username=oandredev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oandredev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=oandredev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="140" alt="stats graph"  />
+  <img width="5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oandredev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=algolia&hide_border=false" height="140" alt="languages graph"  />
 </div>
   
 <br> 
@@ -26,6 +29,26 @@
     <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
     <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
 </div>
-    
+  
 <br>
-<br>
+
+<h4>I"m open to new opportunities, chat me here:</h4>
+
+<br> 
+
+<div>
+  <a href="https://www.linkedin.com/in/oandredev"><img src="https://skillicons.dev/icons?i=linkedin" height="140" alt="linkedin logo" /></a>
+  <img width="12" />
+  <a href="https://www.instagram.com/oandredev/"><img src="https://skillicons.dev/icons?i=instagram" height="140" alt="instagram logo" /></a>
+  <img width="12" />
+  <a href="https://oandredev.vercel.app/"><img src="/Assets/logoAndreDev.png" height="50" alt="andredev logo" /></a>
+</div>
+
+<hr>
+
+<div align="center">
+  <h3> ACTIVITY </h3>
+  <br>
+  <a href="https://wakatime.com/@4e368b22-0f58-4fbb-bb3e-cea062362d21"><img src="https://wakatime.com/badge/user/4e368b22-0f58-4fbb-bb3e-cea062362d21.svg" alt="Total time coded since Aug 4 2025" /></a>
+  <img src="https://raw.githubusercontent.com/oandredev/oandredev/output/snake.svg" alt="Snake animation" />
+</div
