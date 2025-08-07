@@ -41,7 +41,7 @@
   <img width="12" />
   <a href="https://www.instagram.com/oandredev/"><img src="https://skillicons.dev/icons?i=instagram" height="140" alt="instagram logo" /></a>
   <img width="12" />
-  <a href="https://oandredev.vercel.app/"><img src="/Assets/logoAndreDev.png" height="50" alt="andredev logo" /></a>
+  <a href="https://oandredev.vercel.app/"><img src="/Assets/logoAndreDev.png" height="50" alt="andredev logo" /></a> 
 </div>
 
 <hr>
