@@ -1,54 +1,55 @@
+<!-- VISITOR BADGE -->
 <img height="25px" src="https://api.visitorbadge.io/api/visitors?path=github.com%oandredev&label=visitors&labelColor=%23059&countColor=%231a2a40&style=default" alt="oandredev-profile-views">
 
-<h1 align="center">Hi 👋! I'm André Rodrigues, a guy passionate about technology 💻 </h1>
-<h4 align="justify"> I'm a Systems Analysis and Development student at Senac University Center, and I'm looking for opportunities to apply and expand my knowledge in the technology field. I'm passionate about software development, always seeking to learn and evolve with new challenges.</h4>
-<h4> I started in this field after participating in a game development workshop. I created a small platform game, and through it, I was able to see the endless possibilities. This made me fall in love with technology and continue practicing it to this day. </h4> 
-<h4> I have been gaining experience and deepening my knowledge in the following technologies:</h4>
+<!-- HEADER -->
+<h1 align="center">Hi 👋! I'm André Rodrigues</h1>
+<h3 align="center">A tech enthusiast passionate about building and learning 💻</h3>
 
+<!-- ABOUT -->
+<h4 align="justify">
+I'm a <b>Systems Analysis and Development</b> student at <b>Senac University Center</b>, constantly seeking to apply and expand my skills in technology.
+I started my journey after participating in a <b>game development workshop</b> — creating a small platformer game opened my eyes to endless possibilities in software development.
+</h4>
+
+<h4>
+Currently, I’m deepening my experience with the following technologies:
+</h4>
+
+<!-- STATS -->
 <br>
-
-<div align="center" collum=1>
-  <img src="https://github-readme-stats.vercel.app/api?username=oandredev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="140" alt="stats graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oandredev&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=false" height="150" alt="GitHub stats" />
   <img width="5" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oandredev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=algolia&hide_border=false" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oandredev&layout=compact&langs_count=10&theme=algolia&hide_border=false" height="150" alt="Top languages" />
 </div>
-  
-<br> 
+
+<!-- SKILLS -->
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,unity,java,html,css,js,ts,angular,react,next,vercel,python,figma" height="60" width="100%" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongo,notion,github" height="60" width="100%" alt="Tech stack" />
+</div>
+
+<!-- CONTACT -->
+<br>
+<h4 align="center">🚀 I'm open to new opportunities — let's connect!</h4>
+<br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
-    <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo"  />
-    <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-    <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-    <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-    <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-    <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-    <img src="https://skillicons.dev/icons?i=next" height="60" alt="next logo"  />
-    <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
-    <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
-    <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-</div>
-  
-<br>
-
-<h4>I"m open to new opportunities, chat me here:</h4>
-
-<br> 
-
-<div>
-  <a href="https://www.linkedin.com/in/oandredev"><img src="https://skillicons.dev/icons?i=linkedin" height="140" alt="linkedin logo" /></a>
+ <a href="https://www.linkedin.com/in/oandredev"><img src="https://skillicons.dev/icons?i=linkedin" height="140" alt="linkedin logo" /></a>
   <img width="12" />
   <a href="https://www.instagram.com/oandredev/"><img src="https://skillicons.dev/icons?i=instagram" height="140" alt="instagram logo" /></a>
   <img width="12" />
   <a href="https://oandredev.vercel.app/"><img src="/Assets/logoAndreDev.png" height="50" alt="andredev logo" /></a> 
 </div>
 
+<!-- ACTIVITY -->
 <hr>
-
 <div align="center">
-  <h3> ACTIVITY </h3>
-  <br>
-  <a href="https://wakatime.com/@4e368b22-0f58-4fbb-bb3e-cea062362d21"><img src="https://wakatime.com/badge/user/4e368b22-0f58-4fbb-bb3e-cea062362d21.svg" alt="Total time coded since Aug 4 2025" /></a>
+  <h3>📊 ACTIVITY</h3>
+  <a href="https://wakatime.com/@4e368b22-0f58-4fbb-bb3e-cea062362d21">
+    <img src="https://wakatime.com/badge/user/4e368b22-0f58-4fbb-bb3e-cea062362d21.svg" alt="Wakatime badge" />
+  </a>
+  <br><br>
   <img src="https://raw.githubusercontent.com/oandredev/oandredev/output/snake.svg" alt="Snake animation" />
-</div
+</div>
