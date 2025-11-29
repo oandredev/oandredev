@@ -1,0 +1,58 @@
+name: Fetch GitHub Stats Images (Failproof to Output Branch)
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout output branch
+        uses: actions/checkout@v4
+        with:
+          ref: output
+
+      - name: Create assets folder
+        run: mkdir -p assets
+
+      - name: Download stats card
+        id: stats
+        continue-on-error: true
+        run: |
+          curl -s -o assets/stats_new.svg "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oandredev&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=false"
+
+      - name: Validate stats_new.svg
+        run: |
+          if grep -qi "Error" assets/stats_new.svg; then
+            echo "Stats download failed, keeping old file"
+            rm assets/stats_new.svg
+          else
+            mv assets/stats_new.svg assets/stats.svg
+          fi
+
+      - name: Download top-langs card
+        id: langs
+        continue-on-error: true
+        run: |
+          curl -s -o assets/langs_new.svg "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=oandredev&layout=compact&langs_count=10&theme=algolia&hide_border=false"
+
+      - name: Validate langs_new.svg
+        run: |
+          if grep -qi "Error" assets/langs_new.svg; then
+            echo "Langs download failed, keeping old file"
+            rm assets/langs_new.svg
+          else
+            mv assets/langs_new.svg assets/langs.svg
+          fi
+
+      - name: Commit updated images to output branch
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update cached GitHub stats images"
+          branch: output
+          file_pattern: assets/*.svg
