@@ -1,11 +1,9 @@
 name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "* */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
       - master
@@ -18,13 +16,34 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate snake.svg
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Try to generate snake.svg
+        id: snake
+        continue-on-error: true   # <--- permite falhar SEM parar o workflow
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: oandredev
           outputs: dist/snake.svg?palette=github-dark
 
-      - name: push snake.svg to the output branch
+      - name: Check output file exists
+        id: checkfile
+        run: |
+          if [ ! -s "dist/snake.svg" ]; then
+            echo "generated=false" >> $GITHUB_OUTPUT
+          else
+            echo "generated=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Abort publish if file didn't generate
+        if: steps.checkfile.outputs.generated == 'false'
+        run: |
+          echo "Snake generation failed — keeping previous version."
+          exit 0  # continua o job, mas NÃO publica nada
+
+      - name: Push snake.svg to the output branch
+        if: steps.checkfile.outputs.generated == 'true'
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
