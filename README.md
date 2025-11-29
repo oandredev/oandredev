@@ -17,10 +17,11 @@ Currently, I’m deepening my experience with the following technologies:
 
 <!-- STATS -->
 <br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oandredev&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=false" height="150" alt="GitHub stats" />
-  <img width="5" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oandredev&layout=compact&langs_count=10&theme=algolia&hide_border=false" height="150" alt="Top languages" />
+  <img height="150" src="https://raw.githubusercontent.com/oandredev/oandredev/output/assets/stats.svg" />
+  <img width="6" />
+  <img height="150" src="https://raw.githubusercontent.com/oandredev/oandredev/output/assets/langs.svg" />
 </div>
 
 <!-- SKILLS -->
