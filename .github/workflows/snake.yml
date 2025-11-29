@@ -21,7 +21,7 @@ jobs:
 
       - name: Try to generate snake.svg
         id: snake
-        continue-on-error: true   # <--- permite falhar SEM parar o workflow
+        continue-on-error: true
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: oandredev
@@ -40,7 +40,7 @@ jobs:
         if: steps.checkfile.outputs.generated == 'false'
         run: |
           echo "Snake generation failed — keeping previous version."
-          exit 0  # continua o job, mas NÃO publica nada
+          exit 0
 
       - name: Push snake.svg to the output branch
         if: steps.checkfile.outputs.generated == 'true'
