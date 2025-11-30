@@ -48,9 +48,13 @@ Currently, I’m deepening my experience with the following technologies:
 <hr>
 <div align="center">
   <h3>📊 ACTIVITY</h3>
+  <br>
   <a href="https://wakatime.com/@4e368b22-0f58-4fbb-bb3e-cea062362d21">
-    <img src="https://wakatime.com/badge/user/4e368b22-0f58-4fbb-bb3e-cea062362d21.svg" alt="Wakatime badge" />
+<img src="https://wakatime.com/badge/user/4e368b22-0f58-4fbb-bb3e-cea062362d21.svg?style=flat-square" />
+    <br>
+    <br>
+    <img width="850" src="https://wakatime.com/share/@oandredev/6431e9b1-5e48-44d9-a249-6e95a1552cce.svg" />
+    <br>
+    <img src="https://raw.githubusercontent.com/oandredev/oandredev/output/snake.svg" alt="Snake animation" />
   </a>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/oandredev/oandredev/output/snake.svg" alt="Snake animation" />
 </div>
