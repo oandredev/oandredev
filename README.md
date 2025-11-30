@@ -11,17 +11,14 @@ I'm a <b>Systems Analysis and Development</b> student at <b>Senac University Cen
 I started my journey after participating in a <b>game development workshop</b> — creating a small platformer game opened my eyes to endless possibilities in software development.
 </h4>
 
-<h4>
-Currently, I’m deepening my experience with the following technologies:
-</h4>
+<h4>Currently, I’m deepening my experience with the following technologies:</h4>
 
 <!-- STATS -->
-<br>
 
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/oandredev/oandredev/output/assets/stats.svg" />
+  <img height="150" src="https://raw.githubusercontent.com/oandredev/oandredev/output/assets/stats.svg" alt=""/>
   <img width="6" />
-  <img height="150" src="https://raw.githubusercontent.com/oandredev/oandredev/output/assets/langs.svg" />
+  <img height="150" src="https://raw.githubusercontent.com/oandredev/oandredev/output/assets/langs.svg" alt=""/>
 </div>
 
 <!-- SKILLS -->
