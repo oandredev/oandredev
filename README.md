@@ -14,11 +14,10 @@ I started my journey after participating in a <b>game development workshop</b> â
 <h4>Currently, Iâ€™m deepening my experience with the following technologies:</h4>
 
 <!-- STATS -->
-
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/oandredev/oandredev/output/assets/stats.svg" alt=""/>
-  <img width="6" />
-  <img height="150" src="https://raw.githubusercontent.com/oandredev/oandredev/output/assets/langs.svg" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oandredev&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=false" height="150" alt="" />
+  <img width="5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oandredev&layout=compact&langs_count=10&theme=algolia&hide_border=false" height="150" alt="" />
 </div>
 
 <!-- SKILLS -->
@@ -34,11 +33,11 @@ I started my journey after participating in a <b>game development workshop</b> â
 <br>
 
 <div align="center">
- <a href="https://www.linkedin.com/in/oandredev"><img src="https://skillicons.dev/icons?i=linkedin" height="140" alt="linkedin logo" /></a>
+ <a href="https://www.linkedin.com/in/oandredev"><img src="https://skillicons.dev/icons?i=linkedin" height="140" alt="" /></a>
   <img width="12" />
-  <a href="https://www.instagram.com/oandredev/"><img src="https://skillicons.dev/icons?i=instagram" height="140" alt="instagram logo" /></a>
+  <a href="https://www.instagram.com/oandredev/"><img src="https://skillicons.dev/icons?i=instagram" height="140" alt="" /></a>
   <img width="12" />
-  <a href="https://oandredev.vercel.app/"><img src="/Assets/logoAndreDev.png" height="50" alt="andredev logo" /></a> 
+  <a href="https://oandredev.vercel.app/"><img src="/Assets/logoAndreDev.png" height="50" alt="" /></a> 
 </div>
 
 <!-- ACTIVITY -->
@@ -47,11 +46,11 @@ I started my journey after participating in a <b>game development workshop</b> â
   <h3>ðŸ“Š ACTIVITY</h3>
   <br>
   <a href="https://wakatime.com/@4e368b22-0f58-4fbb-bb3e-cea062362d21">
-<img src="https://wakatime.com/badge/user/4e368b22-0f58-4fbb-bb3e-cea062362d21.svg?style=flat-square" />
-    <br>
-    <br>
-    <img width="850" src="https://wakatime.com/share/@oandredev/6431e9b1-5e48-44d9-a249-6e95a1552cce.svg" />
-    <br>
-    <img src="https://raw.githubusercontent.com/oandredev/oandredev/output/snake.svg" alt="Snake animation" />
+  <img src="https://wakatime.com/badge/user/4e368b22-0f58-4fbb-bb3e-cea062362d21.svg?style=flat-square" alt=""/>
+  <br>
+  <br>
+  <img width="850" src="https://wakatime.com/share/@oandredev/6431e9b1-5e48-44d9-a249-6e95a1552cce.svg" alt=""/>   
+  <br>
+  <img src="https://raw.githubusercontent.com/oandredev/oandredev/output/snake.svg" alt="Snake animation" alt=""/>
   </a>
 </div>
