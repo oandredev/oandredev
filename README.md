@@ -46,10 +46,11 @@ I started my journey after participating in a <b>game development workshop</b> â
   <h3>ðŸ“Š ACTIVITY</h3>
   <br>
   <a href="https://wakatime.com/@4e368b22-0f58-4fbb-bb3e-cea062362d21">
-  <img src="https://wakatime.com/badge/user/4e368b22-0f58-4fbb-bb3e-cea062362d21.svg?style=flat-square" alt=""/>
-  <br>
-  <br>
-  <img width="850" src="https://wakatime.com/share/@oandredev/6431e9b1-5e48-44d9-a249-6e95a1552cce.svg" alt=""/>   
+    <img src="https://wakatime.com/badge/user/4e368b22-0f58-4fbb-bb3e-cea062362d21.svg" alt="Total time coded since Aug 4 2025" />
+    <br>
+    <br>
+    <img width="850" src="https://wakatime.com/share/@oandredev/6431e9b1-5e48-44d9-a249-6e95a1552cce.svg?style=flat-square" alt=""/>   
+  </a>
   <br>
   <img src="https://raw.githubusercontent.com/oandredev/oandredev/output/snake.svg" alt="Snake animation" alt=""/>
   </a>
