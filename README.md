@@ -2,8 +2,20 @@
 <img height="25px" src="https://api.visitorbadge.io/api/visitors?path=github.com%oandredev&label=visitors&labelColor=%23059&countColor=%231a2a40&style=default" alt="oandredev-profile-views">
 
 <!-- HEADER -->
-<h1 align="center">Hi 👋! I'm André Rodrigues</h1>
-<h3 align="center">A tech enthusiast passionate about building and learning 💻</h3>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=✨+Hey+there!+I'm+André+Rodrigues+✨;💻+Fullstack+Developer+%26+🎮+Game+Developer;"
+    alt="Typing SVG" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=1000&lines=💡+A+tech+enthusiast+passionate+about+building+and+learning;🎓+Student+at+SENAC+University+Center"
+    alt="Typing SVG" 
+  />
+</p>
+
 
 <!-- ABOUT -->
 <h4 align="justify">
@@ -11,7 +23,7 @@ I'm a <b>Systems Analysis and Development</b> student at <b>Senac University Cen
 I started my journey after participating in a <b>game development workshop</b> — creating a small platformer game opened my eyes to endless possibilities in software development.
 </h4>
 
-<h4>Currently, I’m deepening my experience with the following technologies:</h4>
+<h4>Currently deepening my experience with the following technologies: 👇🏼</h4>
 
 <!-- STATS -->
 <div align="center">
