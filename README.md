@@ -35,8 +35,8 @@ I started my journey after participating in a <b>game development workshop</b> â
 <!-- SKILLS -->
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unity,blender,cs,java,html,css,js,ts,angular,react,next,vercel,figma" height="60" width="100%" alt="Tech stack" />
-  <img src="https://skillicons.dev/icons?i=mysql,mongo,notion,github,vscode,visualstudio,idea,windows" height="60" width="100%" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=unity,blender,cs,java,html,css,js,ts,angular,react,nodejs,postman,next,vercel,figma" height="60" width="100%" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongo,notion,git,github,vscode,visualstudio,idea,windows" height="60" width="100%" alt="Tech stack" />
 </div>
 
 <!-- CONTACT -->
