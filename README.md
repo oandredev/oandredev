@@ -35,9 +35,29 @@ I started my journey after participating in a <b>game development workshop</b> â
 <!-- SKILLS -->
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unity,blender,cs,java,html,css,js,ts,angular,react,nodejs,postman,next,vercel,figma" height="60" width="100%" alt="Tech stack" />
-  <img src="https://skillicons.dev/icons?i=mysql,mongo,notion,git,github,vscode,visualstudio,idea,windows" height="60" width="100%" alt="Tech stack" />
+
+  <!-- Languages / Core -->
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=cs,java,html,css,js,ts" height="60" width="100%" alt="Languages" />
+
+  <!-- Frameworks / Libraries -->
+  <h3>Frameworks / Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=angular,react,next,nodejs" height="60" width="100%" alt="Frameworks" />
+
+  <!-- Games / 3D -->
+  <h3>Games / 3D</h3>
+  <img src="https://skillicons.dev/icons?i=unity,blender" height="60" width="100%" alt="Games / 3D" />
+
+  <!-- Databases -->
+  <h3>Databases</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,mongo" height="60" width="100%" alt="Databases" />
+
+  <!-- Tools / IDEs / Platforms -->
+  <h3>Tools / IDEs / Platforms</h3>
+  <img src="https://skillicons.dev/icons?i=postman,vercel,notion,git,github,vscode,visualstudio,idea,windows,figma" height="60" width="100%" alt="Tools" />
+
 </div>
+
 
 <!-- CONTACT -->
 <br>
