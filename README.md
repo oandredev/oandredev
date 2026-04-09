@@ -38,7 +38,7 @@ I started my journey after participating in a <b>game development workshop</b> â
 
   <!-- Languages / Core -->
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=cs,java,html,css,js,ts" height="60" width="100%" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=cs,java,html,css,js,ts,python" height="60" width="100%" alt="Languages" />
 
   <!-- Frameworks / Libraries -->
   <h3>Frameworks / Libraries</h3>
