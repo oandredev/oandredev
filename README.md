@@ -69,25 +69,23 @@ My journey started with a **game development workshop** — building a small pla
 
 <br>
 
+## 👾 Contribution Graph
+
+<div align="center">
+ <picture data-importer="pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oandredev/oandredev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+</picture>
+<br>
+</div>
+
+<br>
+
 ## ⏱️ Coding Activity
 
 <div align="center">
   <a href="https://wakatime.com/@4e368b22-0f58-4fbb-bb3e-cea062362d21">
     <img src="https://wakatime.com/badge/user/4e368b22-0f58-4fbb-bb3e-cea062362d21.svg" alt="Total time coded since Aug 4 2025" />
     <br><br>
-    <img width="850" src="https://wakatime.com/share/@oandredev/6431e9b1-5e48-44d9-a249-6e95a1552cce.svg?style=flat-square" alt="WakaTime stats" />
+    <img width="1080" src="https://wakatime.com/share/@oandredev/6431e9b1-5e48-44d9-a249-6e95a1552cce.svg?style=flat-square" alt="WakaTime stats" />
   </a>
-</div>
-
-<br>
-
-## 👾 Contribution Graph
-
-<div align="center">
- <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oandredev/oandredev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oandredev/oandredev/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oandredev/oandredev/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-<br>
 </div>
