@@ -37,7 +37,7 @@ My journey started with a **game development workshop** — building a small pla
 <img width="12" />
 
   <img width="12" />
-  <a href="https://oandredev.vercel.app/"><img src="/Assets/logo.png" height="50" border-radius="50px" alt="Portfolio" /></a>
+  <a href="https://oandredev.vercel.app/"><img src="/Assets/logo.svg" height="50" border-radius="50px" alt="Portfolio" /></a>
 
 <br>
 
