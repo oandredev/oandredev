@@ -33,12 +33,14 @@ My journey started with a **game development workshop** — building a small pla
 
 ## 📫 Let's connect!
 
-<a href="https://www.linkedin.com/in/oandredev"><img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn" /></a>
-<img width="12" />
-
-  <img width="12" />
-  <a href="https://oandredev.vercel.app/"><img src="/Assets/logo.svg" height="50" border-radius="50px" alt="Portfolio" /></a>
-
+<div style="display: inline-block;">
+  <a href="https://www.linkedin.com/in/oandredev" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn">
+  </a>
+  <a href="https://oandredev.vercel.app/" style="text-decoration: none;">
+    <img src="./Assets/logo.svg" height="50" alt="Portfolio">
+  </a>
+</div>
 <br>
 
 ## 🛠️ Tech Stack
@@ -52,9 +54,7 @@ My journey started with a **game development workshop** — building a small pla
 
   <h4>Games / 3D</h4>
   <img src="https://skillicons.dev/icons?i=unity,blender" height="55" style="display:inline-block;" alt="Games / 3D" />
-<span style="display:inline-block; background:#242938; padding:0px px; border-radius:8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photonengine/photonengine-plain.svg" height="55" alt="Photon Engine" />
-</span>
 
   <h4>Databases</h4>
   <img src="https://skillicons.dev/icons?i=mysql,mongo" height="55" alt="Databases" />
