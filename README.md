@@ -1,7 +1,8 @@
+<img height="25px" style="float: right;" src="https://api.visitorbadge.io/api/visitors?path=github.com%oandredev&label=visitors&labelColor=%23059&countColor=%231a2a40&style=default" alt="oandredev-profile-views">
+
 <img src="/Assets/banner.gif" height="540" alt="Portfolio">
 
 <br>
-<img height="25px" src="https://api.visitorbadge.io/api/visitors?path=github.com%oandredev&label=visitors&labelColor=%23059&countColor=%231a2a40&style=default" alt="oandredev-profile-views">
 
 <p align="center">
   <img 
@@ -58,16 +59,6 @@ My journey started with a **game development workshop** — building a small pla
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oandredev&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=false" height="150" alt="GitHub Stats" />
-  <img width="5" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oandredev&layout=compact&langs_count=10&theme=algolia&hide_border=false" height="150" alt="Top Languages" />
-</div>
-
-<br>
-
 ## ⏱️ Coding Activity
 
 <div align="center">
@@ -100,5 +91,5 @@ My journey started with a **game development workshop** — building a small pla
   <img width="12" />
 
   <img width="12" />
-  <a href="https://oandredev.vercel.app/"><img src="/Assets/logo.png" height="50" alt="Portfolio" /></a>
+  <a href="https://oandredev.vercel.app/"><img src="/Assets/logo.png" height="50" border-radius="50px" alt="Portfolio" /></a>
 </div>
