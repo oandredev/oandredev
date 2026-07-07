@@ -31,6 +31,16 @@ My journey started with a **game development workshop** — building a small pla
 
 <br>
 
+## 📫 Let's connect!
+
+<a href="https://www.linkedin.com/in/oandredev"><img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn" /></a>
+<img width="12" />
+
+  <img width="12" />
+  <a href="https://oandredev.vercel.app/"><img src="/Assets/logo.png" height="50" border-radius="50px" alt="Portfolio" /></a>
+
+<br>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -80,16 +90,4 @@ My journey started with a **game development workshop** — building a small pla
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oandredev/oandredev/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 <br>
-</div>
-
-<br>
-
-## 📫 Let's connect!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/oandredev"><img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn" /></a>
-  <img width="12" />
-
-  <img width="12" />
-  <a href="https://oandredev.vercel.app/"><img src="/Assets/logo.png" height="50" border-radius="50px" alt="Portfolio" /></a>
 </div>
