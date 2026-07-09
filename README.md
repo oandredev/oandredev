@@ -1,19 +1,20 @@
-<img height="25px" style="float: right;" src="https://api.visitorbadge.io/api/visitors?path=github.com%oandredev&label=visitors&labelColor=%23059&countColor=%231a2a40&style=default" alt="oandredev-profile-views">
 
-<img src="/Assets/banner.gif" height="540" alt="Portfolio">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=André%20Dev&reversal=true&desc=Fullstack%20Developer%20|%20Game%20Developer&animation=fadeIn&descAlign=50&descAlignY=60&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&color=0:0F172A,100:1E3A8A">
+</div>
 
 <br>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Andr%C3%A9+%F0%9F%91%8B;Fullstack+Developer;Game+Developer;3D+Artist"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Andr%C3%A9+%F0%9F%91%8B;Fullstack+Developer;Game+Developer;3D+Artist"
     alt="Typing SVG" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1200&color=888888&center=true&vCenter=true&width=700&lines=%F0%9F%92%A1+Passionate+about+technology%2C+games+and+3D+art;%F0%9F%8E%93+Systems+Analysis+%26+Development+student+at+Senac"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=700&color=888888&center=true&vCenter=true&width=700&lines=%F0%9F%92%A1+Passionate+about+technology%2C+games+and+3D+art;%F0%9F%8E%93+Systems+Analysis+%26+Development+student+at+Senac"
     alt="Typing SVG" 
   />
 </p>
@@ -31,8 +32,11 @@ My journey started with a **game development workshop** — building a small pla
 
 <br>
 
-## 📫 Let's connect!
+## 📫 Let's connect!  
 
+<div align="end">
+<img height="25px" style="float: right;" src="https://api.visitorbadge.io/api/visitors?path=github.com%oandredev&label=visitors&labelColor=%23059&countColor=%231a2a40&style=default" alt="oandredev-profile-views">
+</div>
 <div style="display: inline-block;">
   <a href="https://www.linkedin.com/in/oandredev" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn">
@@ -75,7 +79,6 @@ My journey started with a **game development workshop** — building a small pla
  <picture data-importer="pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oandredev/oandredev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
 </picture>
-<br>
 </div>
 
 <br>
@@ -88,4 +91,8 @@ My journey started with a **game development workshop** — building a small pla
     <br><br>
     <img width="1080" src="https://wakatime.com/share/@oandredev/6431e9b1-5e48-44d9-a249-6e95a1552cce.svg?style=flat-square" alt="WakaTime stats" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&reversal=true&desc=Thanks%20for%20Visiting%20:)&section=footer&animation=fadeIn&descAlign=50&descAlignY=70&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&descColor=FFFFFF&color=0:0F172A,100:1E3A8A">
 </div>
