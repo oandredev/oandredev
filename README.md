@@ -1,13 +1,13 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=André%20Dev&reversal=true&desc=Fullstack%20Developer%20|%20Game%20Developer&animation=fadeIn&descAlign=50&descAlignY=60&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&color=0:0F172A,100:1E3A8A">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=André%20Dev&reversal=true&desc=Fullstack%20Developer%20|%20Game%20Developer&animation=fadeIn&descAlign=50&descAlignY=60&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&color=0:0F172A,100:2462eb">
 </div>
 
 <br>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Andr%C3%A9+%F0%9F%91%8B;Fullstack+Developer;Game+Developer;3D+Artist"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=2462eb&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Andr%C3%A9+%F0%9F%91%8B;Fullstack+Developer;Game+Developer;3D+Artist"
     alt="Typing SVG" 
   />
 </p>
@@ -35,16 +35,11 @@ My journey started with a **game development workshop** — building a small pla
 ## 📫 Let's connect!  
 
 <div align="end">
-<img height="25px" style="float: right;" src="https://api.visitorbadge.io/api/visitors?path=github.com%oandredev&label=visitors&labelColor=%23059&countColor=%231a2a40&style=default" alt="oandredev-profile-views">
+<img height="25px" style="float: right;" src="https://api.visitorbadge.io/api/visitors?path=github.com%oandredev&label=visitors&labelColor=%23059&countColor=%23242938&style=default" alt="oandredev-profile-views">
 </div>
-<div style="display: inline-block;">
-  <a href="https://www.linkedin.com/in/oandredev" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn">
-  </a>
-  <a href="https://oandredev.vercel.app/" style="text-decoration: none;">
-    <img src="./Assets/logo.svg" height="50" alt="Portfolio">
-  </a>
-</div>
+
+<a href="https://www.linkedin.com/in/oandredev" style="display:inline-block;vertical-align:middle;"><img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn"></a> <a href="https://oandredev.vercel.app/" style="display:inline-block;vertical-align:middle;"><img src="./Assets/logo.svg" height="50" alt="Portfolio"></a>
+
 <br>
 
 ## 🛠️ Tech Stack
@@ -94,5 +89,5 @@ My journey started with a **game development workshop** — building a small pla
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&reversal=true&desc=Thanks%20for%20Visiting%20:)&section=footer&animation=fadeIn&descAlign=50&descAlignY=70&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&descColor=FFFFFF&color=0:0F172A,100:1E3A8A">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&reversal=true&desc=Thanks%20for%20Visiting%20:)&section=footer&animation=fadeIn&descAlign=50&descAlignY=70&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&descColor=FFFFFF&color=0:0F172A,100:2462eb">
 </div>
