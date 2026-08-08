@@ -27,8 +27,6 @@ My journey started with a **game development workshop** — building a small pla
 
 - 🌐 **Web Development** — fullstack applications with Angular, Node.js/Express, SpringBoot and MySQL
 - 🎮 **Game Development** — Unity Engine projects with multiplayer and cross-platform support
-- 🎨 **3D Art & Animation** —
-  modeling, texturing, rigging and animation in Blender
 
 <br>
 
