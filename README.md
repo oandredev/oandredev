@@ -7,14 +7,14 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=2462eb&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Andr%C3%A9+%F0%9F%91%8B;Fullstack+Developer;Game+Developer;3D+Artist"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=2462eb&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Andr%C3%A9+%F0%9F%91%8B;Fullstack+Developer;Game+Developer;"
     alt="Typing SVG" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=700&color=888888&center=true&vCenter=true&width=700&lines=%F0%9F%92%A1+Passionate+about+technology%2C+games+and+3D+art;%F0%9F%8E%93+Systems+Analysis+%26+Development+student+at+Senac"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=700&color=888888&center=true&vCenter=true&width=700&lines=%F0%9F%92%A1+Passionate+about+technology;%F0%9F%8E%93+Systems+Analysis+%26+Development+student+at+Senac"
     alt="Typing SVG" 
   />
 </p>
