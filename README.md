@@ -23,7 +23,7 @@
 
 I'm a **Systems Analysis and Development** student at **Senac University Center**, always looking to apply and expand my skills in technology.
 
-My journey started with a **game development workshop** — building a small platformer opened my eyes to the endless possibilities of software development. Today I work across three creative fields:
+My journey started with a **game development workshop** — building a small platformer opened my eyes to the endless possibilities of software development. Today I work across two creative fields:
 
 - 🌐 **Web Development** — fullstack applications with Angular, Node.js/Express, SpringBoot and MySQL
 - 🎮 **Game Development** — Unity Engine projects with multiplayer and cross-platform support
