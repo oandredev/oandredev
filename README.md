@@ -48,7 +48,7 @@ My journey started with a **game development workshop** — building a small pla
 
   <h4>Frameworks / Libraries</h4>
   <img src="https://skillicons.dev/icons?i=angular,react" height="55" alt="Frameworks: Angular, React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" height="55" alt="Frameworks: React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" height="45" alt="Frameworks: React Native" />
   <img src="https://skillicons.dev/icons?i=nodejs,spring" height="55" alt="Frameworks NodeJs, Spring Boot" />
 
   <h4>Games / 3D</h4>
