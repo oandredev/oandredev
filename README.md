@@ -44,23 +44,25 @@ My journey started with a **game development workshop** — building a small pla
 
 <div align="center">
   <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=java,cs,html,css,js,ts,python" height="55" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,cs,html,css,js,ts,python" height="55" alt="Languages: Java, CSharp, HTML, CSS, JavaScript, TypeScript, Python" />
 
   <h4>Frameworks / Libraries</h4>
-  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,spring" height="55" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=angular,react" height="55" alt="Frameworks: Angular, React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" height="55" alt="Frameworks: React Native" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring" height="55" alt="Frameworks NodeJs, Spring Boot" />
 
   <h4>Games / 3D</h4>
-  <img src="https://skillicons.dev/icons?i=unity,blender" height="55" style="display:inline-block;" alt="Games / 3D" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photonengine/photonengine-plain.svg" height="55" alt="Photon Engine" />
+  <img src="https://skillicons.dev/icons?i=unity,blender" height="55" style="display:inline-block;" alt="Games / 3D: Unity, Blender" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photonengine/photonengine-plain.svg" height="55" alt="Multiplayer Engine: Photon Engine" />
 
   <h4>Databases</h4>
-  <img src="https://skillicons.dev/icons?i=mysql,mongo" height="55" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongo" height="55" alt="Databases: MySQL, MongoDB" />
 
   <h4>Tools / Platforms</h4>
-  <img src="https://skillicons.dev/icons?i=figma,vercel,postman,git,github,windows" height="55" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,vercel,postman,git,github,windows" height="55" alt="Tools: Figma, Vercel, Postman, Git/GitHub, Windows" />
 
   <h4>IDEs</h4>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse" height="55" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse" height="55" alt="Tools: Visual Studio Code, Visual Studio, IntelliJ, Eclipse" />
 
 </div>
 
