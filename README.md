@@ -36,7 +36,7 @@ My journey started with a **game development workshop** — building a small pla
 <img height="25px" style="float: right;" src="https://api.visitorbadge.io/api/visitors?path=github.com%oandredev&label=visitors&labelColor=%23059&countColor=%23242938&style=default" alt="oandredev-profile-views">
 </div>
 
-<a href="https://www.linkedin.com/in/oandredev" style="display:inline-block;vertical-align:middle;"><img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn"></a> <a href="https://oandredev.vercel.app/" style="display:inline-block;vertical-align:middle;"><img src="./Assets/logo.svg" height="50" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/oandredev" style="display:inline-block;vertical-align:middle;"><img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"></a> <a href="https://oandredev.vercel.app/" style="display:inline-block;vertical-align:middle;"><img src="./Assets/logo.svg" height="50" alt="Portfolio Icon"></a>
 
 <br>
 
@@ -48,12 +48,13 @@ My journey started with a **game development workshop** — building a small pla
 
   <h4>Frameworks / Libraries</h4>
   <img src="https://skillicons.dev/icons?i=angular,react" height="55" alt="Frameworks: Angular, React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" height="45" alt="Frameworks: React Native" />
+  <img src="./Assets/react_native.svg"  height="55" alt="Frameworks: React Native" />
   <img src="https://skillicons.dev/icons?i=nodejs,spring" height="55" alt="Frameworks NodeJs, Spring Boot" />
 
   <h4>Games / 3D</h4>
   <img src="https://skillicons.dev/icons?i=unity,blender" height="55" style="display:inline-block;" alt="Games / 3D: Unity, Blender" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photonengine/photonengine-plain.svg" height="55" alt="Multiplayer Engine: Photon Engine" />
+  <img src="./Assets/photon.svg" height="55" alt="Multiplayer Engine: Photon Engine" />
+
 
   <h4>Databases</h4>
   <img src="https://skillicons.dev/icons?i=mysql,mongo" height="55" alt="Databases: MySQL, MongoDB" />
